@@ -1,4 +1,4 @@
-## Hi there! 👋
+# Hi there! 👋
 ## My name is Ester and welcome to my Github profile!
 <!--
 **esterrfg/esterrfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
